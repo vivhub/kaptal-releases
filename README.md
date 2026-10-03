@@ -45,3 +45,12 @@ When submitting an issue, please include:
 5. **Expected vs. Actual Behavior**: What you expected to happen versus what occurred.
 6. **Error Messages / Screenshots**: Any console output, system dialogs, or error logs.
 
+---
+
+## License
+
+Kaptal Desktop application binaries, installers, and update manifests are free to download and use for personal and commercial purposes under the [Kaptal End-User License Agreement (EULA)](LICENSE).
+
+Copyright © 2026 Kaptal. All rights reserved.
+
+
